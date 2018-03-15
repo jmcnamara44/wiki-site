@@ -9,3 +9,11 @@
   background-color: lightgray;
   margin-top: 15px;
 }
+
+.left {
+  background-color: green;
+}
+
+/*.panel-body {
+  background-color: white;
+}*/
