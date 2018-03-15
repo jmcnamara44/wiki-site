@@ -1,3 +1,11 @@
 .left-header {
   float: left;
 }
+.float-right {
+  float: right;
+  padding: 20px 0 0 0;
+}
+.header {
+  background-color: lightgray;
+  margin-top: 15px;
+}
